@@ -14,6 +14,6 @@ public class SimpleJob extends Job {
     private static final Logger logger = LoggerFactory.getLogger(SimpleJob.class);
     @Override
     public void doRun() throws JobInterruptException {
-        logger.info("Hello from Sample Job");
+        logger.info("Hello from Simple Job");
     }
 }
