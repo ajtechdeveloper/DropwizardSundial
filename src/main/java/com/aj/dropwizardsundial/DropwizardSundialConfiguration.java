@@ -29,7 +29,6 @@ public class DropwizardSundialConfiguration extends Configuration {
 
     @JsonProperty("sundial")
     public SundialConfiguration getSundialConfiguration() {
-
         return sundialConfiguration;
     }
 }
