@@ -1,6 +1,6 @@
 # Dropwizard Sundial Scheduler
 
-[![Build Status](https://travis-ci.org/ajtechdeveloper/DropwizardSundial.svg?branch=master)](https://travis-ci.org/ajtechdeveloper/DropwizardSundial)
+[![Build Status](https://app.travis-ci.com/ajtechdeveloper/DropwizardSundial.svg?branch=master)](https://app.travis-ci.com/ajtechdeveloper/DropwizardSundial)
 
 Dropwizard scheduler application using Sundial
 
